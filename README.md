@@ -1,7 +1,6 @@
 # C++_Codecademy Project#1: Block Letters
 ~Write a C++ program that displays the initials of your name in block letters as shown:
 
-//Fun Fact:I love baking!
 
 #include <iostream>
 
