@@ -5,7 +5,6 @@
 #include <iostream>
 
 int main() {
-  //Your program lives here:
   std::cout<<"Y       Y          S S S   \n";
   std::cout<<" Y     Y          S     S  \n";
   std::cout<<"  Y  Y             S       \n";
